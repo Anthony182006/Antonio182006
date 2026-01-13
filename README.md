@@ -7,4 +7,4 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Ioinc etc.
 - 📚 Actualmente estoy aprendiendo todo sobre tecnologías Frontend. :sparkles:
 - 💪🏼 Metas futuras: Aprender más tecnologías - Nunca dejar de crear nuevos proyectos. :collision:
-- ⚡ Dato curioso: Me gusga mucho el futbol y los video juegos. :video_game: :soccer:
+- ⚡ Dato curioso: Me gusta mucho el futbol y los video juegos. :video_game: :soccer:
