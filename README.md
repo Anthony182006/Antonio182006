@@ -8,3 +8,10 @@
 - 📚 Actualmente estoy aprendiendo todo sobre tecnologías Frontend. :sparkles:
 - 💪🏼 Metas futuras: Aprender más tecnologías - Nunca dejar de crear nuevos proyectos. :collision:
 - ⚡ Dato curioso: Me gusta mucho el futbol y los video juegos. :video_game: :soccer:
+
+## 👨‍💻 Lenguajes de programación 
+<div align="center">
+
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anth_ony___17?igsh=eGZkZXpnN3ZhZXdk&utm_source=qr)
+  
+</div>
